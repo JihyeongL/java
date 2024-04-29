@@ -37,4 +37,4 @@ JDK(Java Development Kit) : 자바에서 제공되는 개발용 라이브러리.
 JRE(Java Runtime Environment) : 자바 프로그램이 실행되는 환경. 8.0까지 무료로 제공 됨
 JVM(Java Virtual Machine) : 자바 가상 머신으로 프로그램이 실행되는 환경인 JRE 가 설치되어 있어야 함
 
-
+ 

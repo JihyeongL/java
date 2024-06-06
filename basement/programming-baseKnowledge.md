@@ -37,4 +37,7 @@ JDK(Java Development Kit) : 자바에서 제공되는 개발용 라이브러리.
 JRE(Java Runtime Environment) : 자바 프로그램이 실행되는 환경. 8.0까지 무료로 제공 됨
 JVM(Java Virtual Machine) : 자바 가상 머신으로 프로그램이 실행되는 환경인 JRE 가 설치되어 있어야 함
 
- 
+bit : 컴퓨터가 표현하는 데이터의 최소 단위로 2진수 하나의 값을 저장할 수 있는 메모리 크기
+byte : 1byte = 8bit
+
+** 주의: 패키지 이름은 소문자로 시작, 클래스 이름은 대문자로 시작(기초적인것!!)
